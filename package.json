@@ -15,5 +15,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"description":"experience the awesomeness of my ingenious work"
+	"description":"experience the awesomeness of my ingenious work",
+	"keywords":["freecodecamp","Douglas","rono"]
 }
