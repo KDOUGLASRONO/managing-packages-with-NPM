@@ -17,5 +17,6 @@
 	},
 	"description":"experience the awesomeness of my ingenious work",
 	"keywords":["freecodecamp","Douglas","rono"],
-	"license": "MIT"
+	"license": "MIT",
+	"version":"1.0.0"
 }
